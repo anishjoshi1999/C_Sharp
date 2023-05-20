@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesCasting", "InterfacesCasting.csproj", "{E666CD03-C49A-499D-B2F8-8A965900CFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E666CD03-C49A-499D-B2F8-8A965900CFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E666CD03-C49A-499D-B2F8-8A965900CFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E666CD03-C49A-499D-B2F8-8A965900CFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E666CD03-C49A-499D-B2F8-8A965900CFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED6CD83-547B-4A9F-BA25-BAC3C761BD2E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.AssemblyInfo.cs
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\bin\Debug\net6.0\InterfacesCasting.exe
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\bin\Debug\net6.0\InterfacesCasting.deps.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\bin\Debug\net6.0\InterfacesCasting.runtimeconfig.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\bin\Debug\net6.0\InterfacesCasting.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\bin\Debug\net6.0\InterfacesCasting.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\refint\InterfacesCasting.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\InterfacesCasting.genruntimeconfig.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\InterfacesCasting\obj\Debug\net6.0\ref\InterfacesCasting.dll
