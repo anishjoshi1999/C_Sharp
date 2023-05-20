@@ -1,0 +1,15 @@
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\bin\Debug\net6.0\Explict_Interface.exe
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\bin\Debug\net6.0\Explict_Interface.deps.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\bin\Debug\net6.0\Explict_Interface.runtimeconfig.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\bin\Debug\net6.0\Explict_Interface.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\bin\Debug\net6.0\Explict_Interface.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.AssemblyInfo.cs
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\refint\Explict_Interface.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\Explict_Interface.genruntimeconfig.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Explict_Interface\obj\Debug\net6.0\ref\Explict_Interface.dll
