@@ -1,0 +1,15 @@
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\bin\Debug\net6.0\BasicInterfaces.exe
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\bin\Debug\net6.0\BasicInterfaces.deps.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\bin\Debug\net6.0\BasicInterfaces.runtimeconfig.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\bin\Debug\net6.0\BasicInterfaces.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\bin\Debug\net6.0\BasicInterfaces.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.AssemblyInfo.cs
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\refint\BasicInterfaces.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\BasicInterfaces.genruntimeconfig.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\BasicInterfaces\obj\Debug\net6.0\ref\BasicInterfaces.dll
