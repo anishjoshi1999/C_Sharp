@@ -1,0 +1,15 @@
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\bin\Debug\net6.0\1_Generics_Overview.exe
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\bin\Debug\net6.0\1_Generics_Overview.deps.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\bin\Debug\net6.0\1_Generics_Overview.runtimeconfig.json
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\bin\Debug\net6.0\1_Generics_Overview.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\bin\Debug\net6.0\1_Generics_Overview.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.AssemblyInfo.cs
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\refint\1_Generics_Overview.dll
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.pdb
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\1_Generics_Overview.genruntimeconfig.cache
+C:\Users\anish\Desktop\C_Sharp\Interfaces and Generics\Generics\1_Generics_Overview\obj\Debug\net6.0\ref\1_Generics_Overview.dll
