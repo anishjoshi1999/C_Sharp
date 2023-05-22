@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\Inheritance\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll

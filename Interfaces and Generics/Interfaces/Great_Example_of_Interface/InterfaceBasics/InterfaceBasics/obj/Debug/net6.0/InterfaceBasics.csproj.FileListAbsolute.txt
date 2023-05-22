@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\bin\Debug\net6.0\InterfaceBasics.exe
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\bin\Debug\net6.0\InterfaceBasics.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\bin\Debug\net6.0\InterfaceBasics.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\bin\Debug\net6.0\InterfaceBasics.dll
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\bin\Debug\net6.0\InterfaceBasics.pdb
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.dll
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\refint\InterfaceBasics.dll
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.pdb
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\InterfaceBasics.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Interfaces and Generics\Interfaces\tutorialEU\InterfaceBasics\InterfaceBasics\obj\Debug\net6.0\ref\InterfaceBasics.dll
