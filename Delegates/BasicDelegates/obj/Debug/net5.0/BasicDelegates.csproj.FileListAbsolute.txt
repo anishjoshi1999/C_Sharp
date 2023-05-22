@@ -1,0 +1,16 @@
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\bin\Debug\net5.0\BasicDelegates.exe
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\bin\Debug\net5.0\BasicDelegates.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\bin\Debug\net5.0\BasicDelegates.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\bin\Debug\net5.0\BasicDelegates.runtimeconfig.dev.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\bin\Debug\net5.0\BasicDelegates.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\bin\Debug\net5.0\BasicDelegates.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\refint\BasicDelegates.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\BasicDelegates.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\BasicDelegates\obj\Debug\net5.0\ref\BasicDelegates.dll
