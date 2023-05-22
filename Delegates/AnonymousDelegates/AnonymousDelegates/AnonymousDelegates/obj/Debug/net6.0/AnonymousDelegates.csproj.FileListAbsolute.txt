@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.exe
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\refint\AnonymousDelegates.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\AnonymousDelegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\ref\AnonymousDelegates.dll
