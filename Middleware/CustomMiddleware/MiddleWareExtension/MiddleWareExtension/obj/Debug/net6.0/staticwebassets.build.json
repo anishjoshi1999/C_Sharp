@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zHts5bIHrlhrZ3XEpbA6cH6Gr5gpqsK4wed0Q4oTjKc=",
+  "Source": "MiddleWareExtension",
+  "BasePath": "_content/MiddleWareExtension",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,16 @@
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\bin\Debug\net5.0\Composable.exe
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\bin\Debug\net5.0\Composable.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\bin\Debug\net5.0\Composable.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\bin\Debug\net5.0\Composable.runtimeconfig.dev.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\bin\Debug\net5.0\Composable.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\bin\Debug\net5.0\Composable.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\refint\Composable.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\Composable.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\Composable\obj\Debug\net5.0\ref\Composable.dll
