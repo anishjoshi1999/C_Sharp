@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\bin\Debug\net6.0\Delegates_2.exe
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\bin\Debug\net6.0\Delegates_2.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\bin\Debug\net6.0\Delegates_2.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\bin\Debug\net6.0\Delegates_2.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\bin\Debug\net6.0\Delegates_2.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\refint\Delegates_2.dll
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.pdb
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\Delegates_2.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Delegates\kudvenkat\Delegates_2\Delegates_2\Delegates_2\obj\Debug\net6.0\ref\Delegates_2.dll

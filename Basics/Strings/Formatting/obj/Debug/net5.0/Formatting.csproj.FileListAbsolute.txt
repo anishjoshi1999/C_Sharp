@@ -1,0 +1,16 @@
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\bin\Debug\net5.0\Formatting.exe
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\bin\Debug\net5.0\Formatting.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\bin\Debug\net5.0\Formatting.dll
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\bin\Debug\net5.0\Formatting.pdb
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.dll
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\refint\Formatting.dll
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.pdb
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Strings\Formatting\obj\Debug\net5.0\ref\Formatting.dll

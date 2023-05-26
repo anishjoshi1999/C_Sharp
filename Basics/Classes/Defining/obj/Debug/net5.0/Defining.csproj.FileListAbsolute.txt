@@ -1,0 +1,16 @@
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\bin\Debug\net5.0\Defining.exe
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\bin\Debug\net5.0\Defining.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.dev.json
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\bin\Debug\net5.0\Defining.dll
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\bin\Debug\net5.0\Defining.pdb
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.dll
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\refint\Defining.dll
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.pdb
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\Defining.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Basics\Classes\Defining\obj\Debug\net5.0\ref\Defining.dll
