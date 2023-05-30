@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\bin\Debug\net6.0\Lesson_7.exe
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\bin\Debug\net6.0\Lesson_7.deps.json
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\bin\Debug\net6.0\Lesson_7.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\bin\Debug\net6.0\Lesson_7.dll
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\bin\Debug\net6.0\Lesson_7.pdb
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.dll
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\refint\Lesson_7.dll
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.pdb
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\Lesson_7.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\Debugging\Lesson_7\obj\Debug\net6.0\ref\Lesson_7.dll

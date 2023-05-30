@@ -10,10 +10,10 @@ public class Employee
 }
 public class PartTimeEmployee:Employee
 {
-    public new void PrintFullName()
+    public void PrintFullName()
     {
         //base.PrintFullName();
-        //Console.WriteLine(this.FirstName + " " + this.LastName + " - Contractor");
+        Console.WriteLine(this.FirstName + " " + this.LastName + " - Contractor");
     }
 }
 public class FullTimeEmployee: Employee

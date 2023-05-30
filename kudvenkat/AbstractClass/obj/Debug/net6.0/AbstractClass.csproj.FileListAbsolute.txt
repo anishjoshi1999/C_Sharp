@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\refint\AbstractClass.dll
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll
