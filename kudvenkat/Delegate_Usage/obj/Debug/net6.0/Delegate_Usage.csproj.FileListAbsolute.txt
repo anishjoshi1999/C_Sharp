@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\bin\Debug\net6.0\Delegate_Usage.exe
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\bin\Debug\net6.0\Delegate_Usage.deps.json
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\bin\Debug\net6.0\Delegate_Usage.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\bin\Debug\net6.0\Delegate_Usage.dll
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\bin\Debug\net6.0\Delegate_Usage.pdb
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.dll
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\refint\Delegate_Usage.dll
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.pdb
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\Delegate_Usage.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\Delegate_Usage\obj\Debug\net6.0\ref\Delegate_Usage.dll

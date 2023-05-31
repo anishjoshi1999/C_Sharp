@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Routing_Default_Parameter.props" />
+</Project>

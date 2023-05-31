@@ -1,0 +1,15 @@
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\bin\Debug\net6.0\MulticaseDelegate.exe
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\bin\Debug\net6.0\MulticaseDelegate.deps.json
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\bin\Debug\net6.0\MulticaseDelegate.runtimeconfig.json
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\bin\Debug\net6.0\MulticaseDelegate.dll
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\bin\Debug\net6.0\MulticaseDelegate.pdb
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.csproj.AssemblyReference.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.AssemblyInfoInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.AssemblyInfo.cs
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.csproj.CoreCompileInputs.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.dll
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\refint\MulticaseDelegate.dll
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.pdb
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\MulticaseDelegate.genruntimeconfig.cache
+C:\Users\anish.joshi\Desktop\Learning\kudvenkat\MulticaseDelegate\obj\Debug\net6.0\ref\MulticaseDelegate.dll
