@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebRootAndUseStaticFiles/1.0.0": {
+        "runtime": {
+          "WebRootAndUseStaticFiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebRootAndUseStaticFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
