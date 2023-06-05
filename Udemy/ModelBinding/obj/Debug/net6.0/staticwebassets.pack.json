@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\ModelBinding\\wwwroot\\sample.pdf",
+      "PackagePath": "staticwebassets\\sample.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ModelBinding.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ModelBinding.props",
+      "PackagePath": "build\\ModelBinding.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ModelBinding.props",
+      "PackagePath": "buildMultiTargeting\\ModelBinding.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ModelBinding.props",
+      "PackagePath": "buildTransitive\\ModelBinding.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
