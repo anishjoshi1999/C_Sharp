@@ -9,9 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IActionResultExample
 build_property.RootNamespace = IActionResultExample
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\anish.joshi\Desktop\Learning\Udemy\IActionResultExample\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\anish.joshi\Desktop\Learning\Udemy\IActionResultExample
+=======
+build_property.ProjectDir = C:\Users\anish\Desktop\C_Sharp\Udemy\IActionResultExample\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\anish\Desktop\C_Sharp\Udemy\IActionResultExample
+>>>>>>> 9859c847cddcb7fe11edc4cd391030af8caf2053
 build_property._RazorSourceGeneratorDebug = 

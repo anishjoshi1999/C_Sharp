@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cVOQ/gXqZbmIymykkuuLIloxHcyRPrQvgxx4uLWQnlA=",
+  "Hash": "WfVMHohXJn4lhi4PYU5wH0BqHqzGD5pAmCgGJv4gIPM=",
   "Source": "IActionResultExample",
   "BasePath": "_content/IActionResultExample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "IActionResultExample\\wwwroot",
       "Source": "IActionResultExample",
-      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\IActionResultExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\anish\\Desktop\\C_Sharp\\Udemy\\IActionResultExample\\wwwroot\\",
       "BasePath": "_content/IActionResultExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\IActionResultExample\\wwwroot\\sample.pdf",
+      "Identity": "C:\\Users\\anish\\Desktop\\C_Sharp\\Udemy\\IActionResultExample\\wwwroot\\sample.pdf",
       "SourceId": "IActionResultExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\IActionResultExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\anish\\Desktop\\C_Sharp\\Udemy\\IActionResultExample\\wwwroot\\",
       "BasePath": "_content/IActionResultExample",
       "RelativePath": "sample.pdf",
       "AssetKind": "All",
