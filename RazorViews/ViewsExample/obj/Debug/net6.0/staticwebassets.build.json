@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "x24Zvtx3A67ObEY6VEPyzMkAlrYaR8qjtPPaibu0Jv0=",
+  "Source": "ViewsExample",
+  "BasePath": "_content/ViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewsExample\\wwwroot",
+      "Source": "ViewsExample",
+      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\RazorViews\\ViewsExample\\wwwroot\\",
+      "BasePath": "_content/ViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

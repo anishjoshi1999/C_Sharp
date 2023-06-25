@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "yUa68DXLibClFQux2+KHBW9ANy4UpCXGbmi/x49Bog8=",
+  "Source": "ModelBinding",
+  "BasePath": "_content/ModelBinding",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelBinding\\wwwroot",
+      "Source": "ModelBinding",
+      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\ModelBinding\\wwwroot\\",
+      "BasePath": "_content/ModelBinding",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\ModelBinding\\wwwroot\\sample.pdf",
+      "SourceId": "ModelBinding",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\ModelBinding\\wwwroot\\",
+      "BasePath": "_content/ModelBinding",
+      "RelativePath": "sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample.pdf"
+    }
+  ]
+}

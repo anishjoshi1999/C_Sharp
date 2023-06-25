@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VarsAndData
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\anish\Desktop\C_Sharp\Basics\Overview\VarsAndData\
+=======
+build_property.ProjectDir = C:\Users\anish.joshi\Desktop\Learning\Basics\Overview\VarsAndData\
+>>>>>>> 49a84501fbc1bfefc2da9751996effeed862158a
