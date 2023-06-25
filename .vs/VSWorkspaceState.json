@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Udemy",
+    "\\Udemy\\IActionResultExample",
+    "\\Udemy\\IActionResultExample\\Controllers"
   ],
+  "SelectedNode": "\\Udemy\\IActionResultExample\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
