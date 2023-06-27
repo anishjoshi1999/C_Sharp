@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Route_Constraints_Custom_Class.props" />
+</Project>

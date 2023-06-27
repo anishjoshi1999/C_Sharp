@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Route_Constraints_Custom_Class/1.0.0": {
+        "runtime": {
+          "Route_Constraints_Custom_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Route_Constraints_Custom_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
