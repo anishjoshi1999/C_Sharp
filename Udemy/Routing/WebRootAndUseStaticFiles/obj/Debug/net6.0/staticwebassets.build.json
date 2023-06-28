@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "cjxDvlCohmNPTGePJuIEQudftUahQAJxRzOYwnAsNJ8=",
+  "Source": "WebRootAndUseStaticFiles",
+  "BasePath": "_content/WebRootAndUseStaticFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebRootAndUseStaticFiles\\wwwroot",
+      "Source": "WebRootAndUseStaticFiles",
+      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\Routing\\WebRootAndUseStaticFiles\\wwwroot\\",
+      "BasePath": "_content/WebRootAndUseStaticFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\Routing\\WebRootAndUseStaticFiles\\wwwroot\\1.PNG",
+      "SourceId": "WebRootAndUseStaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\Routing\\WebRootAndUseStaticFiles\\wwwroot\\",
+      "BasePath": "_content/WebRootAndUseStaticFiles",
+      "RelativePath": "1.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\Routing\\WebRootAndUseStaticFiles\\wwwroot\\docs.pdf",
+      "SourceId": "WebRootAndUseStaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anish.joshi\\Desktop\\Learning\\Udemy\\Routing\\WebRootAndUseStaticFiles\\wwwroot\\",
+      "BasePath": "_content/WebRootAndUseStaticFiles",
+      "RelativePath": "docs.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs.pdf"
+    }
+  ]
+}
